@@ -20,6 +20,14 @@ YelpCamp is a Node.js web application with RESTful routing. It's a campground ra
 
 - Responsive web design
 
+## Built with
+ - Node.js
+ - Express
+ - MongoDB
+ - Passport
+ - ejs
+ - Bootstrap
+
 ##Images
 ![image](https://github.com/sarjeetsingh-tech/yelpcamp/assets/104495979/293cd201-dd20-4866-b6c5-dbd366677109)
 ![image](https://github.com/sarjeetsingh-tech/yelpcamp/assets/104495979/fed38a15-abb6-49fd-9b2a-b5707047154c)
@@ -51,11 +59,4 @@ npm run start
 
 Open http://localhost:3000 and take a look around.
 
-Built with
-Node.js
-Express
-MongoDB
-Passport
-ejs
-Bootstrap
 
