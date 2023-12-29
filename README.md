@@ -51,7 +51,7 @@ Clone the repo and install the dependencies.
 git clone https://github.com/[your_username]/yelpcamp.git
 cd yelpcamp
 npm install
-
+```
 
 To start the express server, run the following
 
